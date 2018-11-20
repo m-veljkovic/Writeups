@@ -1,4 +1,4 @@
-## Space force/Writeups/RITSEC. - Web challenge ( 100 points)
+## Special Force - Web challenge ( 100 points)
 
 This is a web challenge and we are provided with an URL:http://fun.ritsec.club:8005/.
 Upon opening we can see that we are presented with **Ship leaderboard** If we enter one of the presented ships, we can see its records.
